@@ -6,8 +6,8 @@ It uses [PokeAPI](https://pokeapi.co/) as the data source, and demonstrates clea
 ---
 
 ## Project Structure
-pokedex-frontend/ ← Next.js frontend (UI)
-pokedex-api/ ← Laravel backend (API)
+- pokedex-frontend/ ← Next.js frontend (UI)
+- pokedex-api/ ← Laravel backend (API)
 
 
 ---
