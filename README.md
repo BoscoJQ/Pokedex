@@ -53,7 +53,7 @@ http://127.0.0.1:8000
 http://127.0.0.1:8000/api
 
 GET /api/pokemon
-Fetches a list of Pokémon (paginated and merged with details).
+- Fetches a list of Pokémon (paginated and merged with details).
 
 - Query Parameters
 | Name     | Type   | Default  | Description                            |
